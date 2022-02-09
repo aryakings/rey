@@ -48,9 +48,9 @@ const spack = fs.readFileSync("lib/exif.json")
 const stickerpack = JSON.parse(spack)
 if (stickerpack.spackname == '') {
 // var sticker_name = 'I hope you\'re fine'
-//var sticker_author = 'Aryabobs'
-var sticker_name = 'X - Rey' // ganti aja
-var sticker_author = 'Aryabobs' // ganti aja
+//var sticker_author = '©®A͢͢͢rͥψạͣɃͫ͢͢͢obs.com 🇮🇩'
+var sticker_name = 'X - ©®A͢͢͢rͥψạͣɃͫ͢͢͢obs.com 🇮🇩' // ganti aja
+var sticker_author = '©®A͢͢͢rͥψạͣɃͫ͢͢͢obs.com 🇮🇩' // ganti aja
 } else {
   var sticker_name = stickerpack.spackname
   var sticker_author = stickerpack.sauthor
@@ -79,20 +79,20 @@ fs.watchFile(file, () => {
 })
 
 // Tambahan By Me (RyuuZeyy)
-gc1 = 'https://chat.whatsapp.com/FJkbQjpewltErmQRwzC9rj'
-gc2 = 'https://chat.whatsapp.com/HTcmEqjQeu1GMN2xN210QJ'
-gc3 = 'https://chat.whatsapp.com/I3yAMaBNA9X63FspQ5V46N'
+gc1 = 'https://chat.whatsapp.com/BBGbpmOXbLRANp2FG9xAaP'
+gc2 = 'https://chat.whatsapp.com/DdOmEfnWrko4TjJ3hGxTWw'
+gc3 = 'https://chat.whatsapp.com/BBGbpmOXbLRANp2FG9xAaP'
 namaig = 'https://instagram.com/aryahandika8'
 linkf = gc1
 linkff = namaig
-namabot = 'aryabobs'
+namabot = '©®A͢͢͢rͥψạͣɃͫ͢͢͢obs.com 🇮🇩'
 namagithub = 'https://github.com/aryakings'
-gcid = '972502255007-1406453544'
-footer = 'Aryabobs'
+gcid = '972522569007-1417415473'
+footer = '©®A͢͢͢rͥψạͣɃͫ͢͢͢obs.com 🇮🇩'
 lolkey = 'rey2k21'
 global.wait = 'Tunggu Sebentar'
-bc = 'Arya'
-titler = '𝙍𝙚𝙖𝙡 𝙁𝙖𝙢𝙨 𝙆𝙞𝙡𝙡𝙚𝙧'
+bc = '©®A͢͢͢rͥψạͣɃͫ͢͢͢obs.com 🇮🇩'
+titler = '『𝙇𝙆』𝙇𝙊𝙇𝙄•Kαωai⚤✿᭄'
 body = run
 kasihcaption = `©${namaig}\n\n©${namagithub}`
 gambar1 = tum1
