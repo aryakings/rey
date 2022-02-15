@@ -79,7 +79,7 @@ fs.watchFile(file, () => {
 })
 
 // Tambahan By Me (RyuuZeyy)
-gc1 = 'https://chat.whatsapp.com/BBGbpmOXbLRANp2FG9xAaP'
+gc1 = 'https://chat.whatsapp.com/G8YMaD9QNOy08kr7K6iBn8'
 gc2 = 'https://chat.whatsapp.com/DdOmEfnWrko4TjJ3hGxTWw'
 gc3 = 'https://chat.whatsapp.com/BBGbpmOXbLRANp2FG9xAaP'
 namaig = 'https://instagram.com/aryahandika8'
